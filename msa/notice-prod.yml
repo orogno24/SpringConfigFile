@@ -37,7 +37,7 @@ spring:
     username: poly
     url: jdbc:mariadb://192.168.162.128:3306/myDB
   application:
-    name: USER-SERVICE
+    name: NOTICE-SERVICE
   boot:
     admin:
       client: # Spring Boot Actuator Admin UI Server
