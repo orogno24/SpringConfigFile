@@ -12,7 +12,7 @@ management:
     info:
       enabled: 'true'
     shutdown:
-      enabled: 'true'
+      enabled: true
   server:
     address: localhost
     port: '12001'
